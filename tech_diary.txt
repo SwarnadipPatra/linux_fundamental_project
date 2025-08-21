@@ -1,0 +1,23 @@
+============My Linux Tech Diary
+============
+
+Name : Swarnadip Patra
+Roll No. : 10700123179
+
+---Favorite Commands---
+1.ls -List files and directories
+2.pwd -Show current directory
+3.cat -Display contents of a file
+4.nano -Edit files
+5.zip -Compress files
+
+---Logbook---
+$ls
+$mkdir test_dir
+$cd test_dir
+$echo "Hello Linux" >> test.txt
+
+Quote : "Keep learning, Keep growing!"
+
+========================================
+============

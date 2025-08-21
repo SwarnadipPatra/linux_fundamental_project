@@ -1,0 +1,5 @@
+---Logbook---
+$ls
+$mkdir test_dir
+$cd test_dir
+$echo "Hello Linux" >> test.txt
